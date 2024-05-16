@@ -11,7 +11,7 @@ Also supports command line arguments:
 * **--int {NUM}** — insert number into INT field
 * **--hex {HEX}** — insert hex value into HEX field
 
-> #### Did you like _x16Calc_ ? Put a _star_ 🌟! :)
+> #### Did you like _x16Calc_ ? Put a 🌟! :)
 
 * ### [Download stable](https://github.com/DosX-dev/x16Calc/releases/tag/stable)
 
